@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 
 - 💻 GitHub: [@shubhamshewale02](https://github.com/shubhamshewale02)
 - 🔗 LinkedIn: [Shubham Shewale](https://www.linkedin.com/in/shubham-shewale-8192b234a/)
-- 📸 Instagram: [@shubham__shewale](https://www.instagram.com/your_instagram_shubham__shewale/)
+- 📸 Instagram: [@shubham__shewale](https://www.instagram.com/shubham__shewale/)
 
 ---
 ⭐ Thanks for visiting my profile! Keep learning and keep building. 🚀

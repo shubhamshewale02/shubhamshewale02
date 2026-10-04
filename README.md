@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 
 ## 📫 Connect With Me
 
-- 💻 GitHub: [@shubham-devx](https://github.com/shubham-devx10)
+- 💻 GitHub: [@shubhamshewale02](https://github.com/shubhamshewale02)
 - 🔗 LinkedIn: [Shubham Shewale](https://www.linkedin.com/in/shubham-shewale-8192b234a/)
 
 ---
